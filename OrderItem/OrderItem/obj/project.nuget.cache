@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ayhtFFnh3C4Kf40Xf5mqqyi9gk81b3arIqKQwsCiJ34VBQm3vQLd3lhI2jAvcy/MD9RlhsqfkMrVSpT+EGh3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RELIANCE\\Desktop\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RELIANCE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\RELIANCE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RELIANCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
